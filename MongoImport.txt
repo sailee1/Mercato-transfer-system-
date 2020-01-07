@@ -1,0 +1,11 @@
+C:\Program Files\MongoDB\Server
+
+
+mongoimport --db squadDB --collection players --type json --file "C:\Users\Saichung Lee\Desktop\mercato\squads.json" --jsonArray
+
+
+
+
+TEST 
+
+mongoimport --db Test --collection players --type json --file "C:\Users\Saichung Lee\Desktop\squad10.json" --jsonArray

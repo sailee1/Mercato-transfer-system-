@@ -1,0 +1,704 @@
+﻿[
+{ 
+"name":"De Gea, David", 
+"club":"Manchester United", 
+"position":"GK", 
+"nationanlity":"Spanish", 
+"age":28 
+}, 
+{
+"name":"Wan-Bissaka, Aaron",   
+"club":"Manchester United", 
+"position":"RB", 
+"nationality":"English", 
+"age":21
+},
+{
+"name":"Maguire, Harry", 
+"club":"Manchester United",    
+"position":"CB", 
+"nationality":"English", 
+"age":26
+},
+{
+"name":"Lindelof, Victor", 
+"club":"Manchester United",    
+"position":"CB", 
+"nationality":"Swedish",
+"age":24 
+},
+{ 
+"name":"Shaw, Luke", 
+"club":"Manchester United",   
+"position":"LB", 
+"nationality":"English", 
+"age":25
+},
+{ 
+"name":"McTominay, Scott",  
+"club":"Manchester United",    
+"position":"CM",  
+"nationality":"Scottish", 
+"age":21
+},
+{  
+"name":"Matic, Nemanja", 
+"club":"Manchester United",    
+"position":"CM",  
+"nationality":"Serbian", 
+"age": 32
+}, 
+{ 
+"name":"Pogba, Paul",   
+"club":"Manchester United",    
+"position":"AM",  
+"nationality": "French", 
+"age": 26
+},
+{
+"name":"James, Daniel", 
+"club":"Manchester United",    
+"position":"RW",  
+"nationality":"Welsh", 
+"age": 20
+},
+{
+"name":"Rashford, Marcus", 
+"club":"Manchester United",    
+"position":"LW",  
+"nationality":"English", 
+"age":23
+},
+{
+"name":"Martial, Anthony", 
+"club":"Manchester United",    
+"position":"ST",  
+"nationality":"French", 
+"age":24 
+},
+{
+"name": "Arrizablaga, Kepa", 
+"club":"Chelsea",    
+"position":"GK", 
+"nationanlity":"Spainish", 
+"age":22
+}, 
+{
+"name":"Aziplicueta, Cesar", 
+"club":"Chelsea", 
+"position":"RB", 
+"nationality":"Spanish", 
+"age":30
+}, 
+{
+"name": "Zouma, Kurt",  
+"club":"Chelsea",    
+"position":"CB", 
+"nationality":"French", 
+"age":23
+}, 
+{
+"name":"Tomori, Fikayo", 
+"club":"Chelsea", 
+"position":"CB",  
+"nationality":"English",
+"age":21
+}, 
+{ 
+"name": "Emerson",
+"club":"Chelsea",    
+"position":"LB", 
+"nationality":"Brazilian", 
+"age":27
+}, 
+{
+"name": "Jorginho",  
+"club":"Chelsea", 
+"position":"CM", 
+"nationality":"Italian", 
+"age":28 
+}, 
+{
+"name":"Kovacic, Mateo", 
+"club":"Chelsea",    
+"position":"CM",  
+"nationality":"Serbian", 
+"age":25
+}, 
+{
+"name":"Mount, Mason",  
+"club":"Chelsea",   
+"position":"AM",  
+"nationality": "English", 
+"age": 21
+},
+{
+"name": "Willian", 
+"club":"Chelsea",   
+"position":"RW",  
+"nationality":"Brazilian", 
+"age":31
+},
+{
+"name":"Pulisic, Christian",
+"club":"Chelsea",    
+"position":"LW",  
+"nationality":"American", 
+"age":21
+},
+{
+"name":"Abraham, Tammy",
+"club":"Chelsea",    
+"position":"ST",  
+"nationality":"English", 
+"age":21
+},  
+{ 
+"name":"Foster, Ben", 
+"club":"Watford",    
+"position":"GK", 
+"nationanlity":"English", 
+"age":33
+},
+{
+"name":"Janmaat, Daryl", 
+"club":"Watford",   
+"position":"RB", 
+"nationality":"Dutch", 
+"age":31
+}, 
+{
+"name":"Kabasele, Christian", 
+"club":"Watford",    
+"position":"CB", 
+"nationality":"Cameroonian", 
+"age":26
+}, 
+{
+"name":"Cathcart, Craig",
+"club":"Watford",   
+"position":"CB", 
+"nationality":"Northern Irish",
+"age":29 
+}, 
+{ 
+"name":"Dawson, Craig", 
+"club":"Watford",   
+"position":"LB", 
+"nationality":"Northern Irish", 
+"age":33
+}, 
+{
+"name":"Hughes, Will", 
+"club":"Watford",   
+"position":"CM",  
+"nationality":"English", 
+"age":25
+}, 
+{ 
+"name":"Doucoure, Abdoulaye", 
+"club":"Watford",  
+"position":"CM",  
+"nationality":"French", 
+"age": 27
+}, 
+{ 
+"name":"Chalobah, Nathaniel",
+"club":"Watford",  
+"position":"AM",  
+"nationality": "English", 
+"age": 26
+},
+{
+"name":"Pereya, Roberto",
+"club":"Watford",  
+"position":"RW",  
+"nationality":"Uruguayan", 
+"age": 27
+},
+{
+"name":"Deulofeu, Gerard", 
+"club":"Watford", 
+"position":"LW",  
+"nationality":"Spanish", 
+"age":25
+},
+{
+"name":"Gray, Andre",
+"club":"Watford", 
+"position":"ST",  
+"nationality":"English", 
+"age":28
+},
+{ 
+"name":"Moraes, Ederson",
+"club":"Manchester City",  
+"position":"GK", 
+"nationanlity":"Brazilian", 
+"age":26
+}, 
+{
+"name":"Walker, Kyle", 
+"club":"Manchester City",  
+"position":"RB", 
+"nationality":"English", 
+"age":31
+}, 
+{
+"name":"Laporte, Aymeric",
+"club":"Manchester City",  
+"position":"CB", 
+"nationality":"French", 
+"age":23
+}, 
+{
+"name": "Stones, John",
+"club":"Manchester City",  
+"position":"CB",  
+"nationality":"English",
+"age":24
+}, 
+{
+"name":"Zinchenko, Oleksandr",  
+"club":"Manchester City",  
+"position":"LB", 
+"nationality":"Ukrainian", 
+"age":21
+}, 
+{ 
+"name":"Gundogan, Ilkay",
+"club":"Manchester City",  
+"position":"CM", 
+"nationality":"German", 
+"age":30
+}, 
+{ 
+"name":"De Bruyne, Kevin",
+"club":"Manchester City",    
+"position":"CM",  
+"nationality":"Belgian", 
+"age":25
+}, 
+{ 
+"name":"Silva, David",
+"club":"Manchester City",  
+"position":"AM",  
+"nationality": "Spanish", 
+"age": 32
+},
+{
+"name":"Mahrez, Riyad",
+"club":"Manchester City",  
+"position":"RW",  
+"nationality":"Algerian", 
+"age":27
+},
+{
+"name":"Sterling, Raheem",
+"position":"LW",  
+"nationality":"English", 
+"age":24 
+},
+{
+"name":"Aguero, Sergio",
+"position":"ST",  
+"nationality":"Argentinan", 
+"age":31 
+}, 
+{
+"name":"Leno, Bernd",
+"position":"GK", 
+"nationanlity":"German", 
+"age":28
+},
+{ 
+"name":"Chambers, Callum",
+"position":"RB", 
+"nationality":"English", 
+"age":25
+}, 
+{
+"name":"Luiz, David",
+"position":"CB", 
+"nationality":"Brazilian", 
+"age":29 
+}, 
+{
+"name":"Papastathoplos, Sokratis",
+"position":"CB", 
+"nationality":"Greek",
+"age":26
+}, 
+{ 
+"name":"Tierney, Kieran", 
+"position":"LB", 
+"nationality":"Scottish", 
+"age":22
+}, 
+{ 
+"name":"Torreira, Lucas", 
+"position":"CM",  
+"nationality":"Uruguayan", 
+"age":25
+}, 
+{ 
+"name":"Guendouzi, Mateo", 
+"position":"CM",  
+"nationality":"French", 
+"age": 22
+}, 
+{ 
+"name":"Ceballos, Daniel",
+"position":"AM",  
+"nationality": "Spanish", 
+"age": 24
+},
+{
+"name":"Ozil, Mesut", 
+"position":"RW",  
+"nationality":"German", 
+"age": 29 
+},
+{
+"name":"Lacazette, Alexandre",
+"position":"LW",  
+"nationality":"French", 
+"age":25
+},
+{
+"name":"Aubameyang, Pierre-Emerick",
+"position":"ST",  
+"nationality":"Gabonese", 
+"age":28
+},
+{ 
+"name":"Dubravka, Martin",
+"position":"GK", 
+"nationanlity":"Serbian", 
+"age":31
+}, 
+{
+"name":"Yedlin, De-Andre",
+"position":"RB", 
+"nationality":"American", 
+"age":26
+}, 
+{
+"name":"Fernandez, Federico",
+"position":"CB", 
+"nationality":"Argentinan", 
+"age":31
+}, 
+{
+"name":"Lascelles, Jamal",
+"position":"CB",  
+"nationality":"English",
+"age":25
+}, 
+{ 
+"name":"Willems, Jetro",
+"position":"LB", 
+"nationality":"Dutch", 
+"age":26
+}, 
+{ 
+"name":"Shelvey, Jonjo",
+"position":"CM", 
+"nationality":"English", 
+"age":28
+}, 
+{
+"name":"Hayden, Isaac", 
+"position":"CM",  
+"nationality":"English", 
+"age":27 
+}, 
+{ 
+"name":"Longstaff, Sean",
+"position":"AM",  
+"nationality": "English", 
+"age": 21 
+},
+{
+"name":"Almiron, Miguel",
+"position":"RW",  
+"nationality":"Paraguayan", 
+"age":25
+},
+{
+"name":"Saint-Maximin, Alain",
+"position":"LW",  
+"nationality":"French", 
+"age":24 
+},
+{
+"name":"Joelinton",
+"position":"ST",  
+"nationality":"Brazilian", 
+"age":23  
+},  
+{
+"name":"Roberto",
+"position":"GK", 
+"nationanlity":"Spanish", 
+"age":28
+},
+{
+"name":"Zabaleta, Pablo", 
+"position":"RB", 
+"nationality":"Argentinan", 
+"age":33 
+}, 
+{
+"name":"Balbuena, Fabian",
+"position":"CB", 
+"nationality":"Argentinan", 
+"age":26 
+}, 
+{
+"name":"Diop, Issa",
+"position":"CB", 
+"nationality":"French",
+"age":24
+}, 
+{ 
+"name":"Cresswall, Aaron",
+"position":"LB", 
+"nationality":"English", 
+"age":27 
+}, 
+{ 
+"name":"Rice, Declan",
+"position":"CM",  
+"nationality":"English", 
+"age":21 
+}, 
+{ 
+"name":"Noble, Mark", 
+"position":"CM",  
+"nationality":"English", 
+"age": 33 
+}, 
+{ 
+"name":"Snodgrass, Robert",
+"position":"AM",  
+"nationality": "Scottish", 
+"age": 31 
+},
+{
+"name":"Anderson, Felipe",
+"position":"RW",  
+"nationality":"Brazilian", 
+"age": 24 
+},
+{
+"name":"Yarmolenko, Andriy", 
+"position":"LW",  
+"nationality":"Ukrainian", 
+"age":28 
+},
+{
+"name":"Haller, Sebastian",
+"position":"ST",  
+"nationality":"French", 
+"age":24 
+},
+{
+"name":"Henderson, Dean",
+"position":"GK", 
+"nationanlity":"English", 
+"age":21 
+},
+{
+"name":"Basham, Chris",
+"position":"RB", 
+"nationality":"English", 
+"age":30 
+}, 
+{
+"name":"Egan, John",
+"position":"CB", 
+"nationality":"English", 
+"age":30 
+}, 
+{
+"name":"O'Connell, Jack",
+"position":"CB",  
+"nationality":"English",
+"age":24 
+}, 
+{ 
+"name":"Lundstram, John",
+"position":"LB", 
+"nationality":"English", 
+"age":27 
+}, 
+{ 
+"name":"Norwood, Oliver",
+"position":"CM", 
+"nationality":"Northern Irish", 
+"age":30 
+}, 
+{ 
+"name":"Stevens, Enda",
+"position":"CM",  
+"nationality":"Irish", 
+"age":28 
+}, 
+{ 
+"name":"Fleck, John",
+"position":"AM",  
+"nationality": "Scottish", 
+"age": 31 
+},
+{
+"name":"Mousset, Lys",
+"position":"RW",  
+"nationality":"French", 
+"age":23 
+},
+{
+"name":"Freeman, Luke",
+"position":"LW",  
+"nationality":"English", 
+"age":24 
+},
+{
+"name":"McGoldrick, David",
+"position":"ST",  
+"nationality":"English", 
+"age":27 
+}, 
+{ 
+"name":"Alison",
+"position":"GK", 
+"nationanlity":"Brazilian", 
+"age":25
+},
+{
+"name":"Alexander-Arnold, Trent", 
+"position":"RB", 
+"nationality":"English", 
+"age":21 
+}, 
+{
+"name":"Van Dijk, Virgil",
+"position":"CB", 
+"nationality":"Dutch", 
+"age":26 
+}, 
+{
+"name":"Lovren, Dejan",
+"position":"CB", 
+"nationality":"Croatian",
+"age":29 
+}, 
+{ 
+"name":"Robertson, Andrew",
+"position":"LB", 
+"nationality":"Scottish", 
+"age":25
+}, 
+{ 
+"name":"Henderson, Jordan",
+"position":"CM",  
+"nationality":"English", 
+"age":28 
+}, 
+{ 
+"name":"Lallana, Adam",
+"position":"CM",  
+"nationality":"English", 
+"age": 28 
+}, 
+{ 
+"name":"Wijnaldam, Gino",
+"position":"AM",  
+"nationality": "Dutch", 
+"age": 26
+},
+{
+"name":"Salah, Mohammed",
+"position":"RW",  
+"nationality":"Egyptian", 
+"age": 26 
+},
+{
+"name":"Mane, Sadio", 
+"position":"LW",  
+"nationality":"Senegalese", 
+"age":27
+},
+{
+"name":"Firminho, Roberto",
+"position":"ST",  
+"nationality":"Brazilian", 
+"age":26 
+},
+{ 
+"name":"Heaton, Tom",
+"position":"GK", 
+"nationality":"English", 
+"age":31
+}, 
+{
+"name":"Guilbert, Federic",
+"position":"RB", 
+"nationality":"French", 
+"age":22 
+}, 
+{
+"name":"Engels, Bjorn",
+"position":"CB", 
+"nationality":"Swedish", 
+"age":27
+}, 
+{
+"name":"Mings, Tyrone",
+"position":"CB",  
+"nationality":"English",
+"age":26 
+}, 
+{ 
+"name":"Targett, Matt",
+"position":"LB", 
+"nationality":"English", 
+"age":25
+}, 
+{ 
+"name":"Nakamba, Marvelous",
+"position":"CM", 
+"nationality":"Senegalese", 
+"age":26 
+}, 
+{ 
+"name":"McGinn, John",
+"position":"CM",  
+"nationality":"Scottish", 
+"age":23 
+}, 
+{ 
+"name":"Grealish, Jack",
+"position":"AM",  
+"nationality": "English", 
+"age": 24
+},
+{
+"name":"El Ghazi, Ahmed",
+"position":"RW",  
+"nationality":"Dutch", 
+"age":26  
+},
+{
+"name":"Trezeguet",
+"position":"LW",  
+"nationality":"Egyptian", 
+"age":25
+},
+{
+"name":"Wesley",
+"position":"ST",  
+"nationality":"Brazilian", 
+"age":24 
+} 
+]

@@ -1,0 +1,22 @@
+<h2 class="page-header"> Search Players</h2> 
+<form action = "/players" method="GET">
+<div class="form-row"> 
+    <div class="form-item"> 
+<label>Name</label>
+<input type = "text" name="name" value="<%= searchOptions.name %>"> 
+    </div>
+</div>
+<div class="form-row form-row-end"> </div>
+<button class="btn btn-primary" type="Submit"> Search</button>
+</form>
+<br> 
+<% players.forEach(player => { %> 
+    <div> <%= player.name %></div>
+   
+    <a class="btn btn-primary" href ="/players/<%= player.id %>"> View</a>
+    <a class = "btn btn-primary" href ="/players/<%= player.id %>/edit"> Edit</a>
+
+   <%- include('../partials/deleteForm', 
+   {url: '/players/${player.id}' }) %>  
+
+    <% }) %>
